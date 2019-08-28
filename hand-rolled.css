@@ -1,0 +1,49 @@
+body {
+    background-color: saddlebrown;
+}
+
+header {
+
+}
+
+header>h1 {
+    font-weight: bold;
+    text-shadow: 4px 2px;
+    font-size: 4em;
+    text-align: center
+}
+h2 {
+    font-weight: bold;
+}
+p {
+    color: blueviolet;
+}
+header>img {
+    box-shadow: 5px 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+header>nav>li>a {
+    color: black !important;
+    font-size: 2em;
+    
+}
+header>nav {
+    display: inline-block;
+    background-color: blue;
+    size: 600;
+
+}
+#nav1 {
+    float: left;
+    padding-left: 30px;
+    margin-left: 20px;
+    block-size: 200px;
+
+}
+#nav2 {
+    float: right;
+    padding-left: 30px;
+    margin-right: 20px;
+    block-size: 200px;
