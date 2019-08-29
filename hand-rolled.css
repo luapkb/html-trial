@@ -1,11 +1,17 @@
 body {
-    background-color: saddlebrown;
+    background-color: rgba(5, 7, 128, 0.548);
 }
+
 
 header {
-
+    background-color: darkolivegreen;
 }
-
+main {
+    background-color: crimson;
+    }
+footer {
+    background-color: rgba(33, 50, 53, 0.26);
+}
 header>h1 {
     font-weight: bold;
     text-shadow: 4px 2px;
