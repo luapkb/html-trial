@@ -41,6 +41,9 @@ header>nav {
     size: 600;
 
 }
+p {
+    color: rgba(249, 107, 31, 1)
+}
 #nav1 {
     float: left;
     padding-left: 30px;
