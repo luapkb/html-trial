@@ -1,14 +1,12 @@
 body {
-    background-color: rgba(5, 7, 128, 0.548);
+    background-color: orangered;
 }
 
 
 header {
     background-color: darkolivegreen;
 }
-main {
-    background-color: crimson;
-    }
+
 footer {
     background-color: rgba(33, 50, 53, 0.26);
 }
@@ -30,6 +28,7 @@ header>img {
     margin-left: auto;
     margin-right: auto;
 }
+
 header>nav>li>a {
     color: black !important;
     font-size: 2em;
@@ -39,11 +38,12 @@ header>nav {
     display: inline-block;
     background-color: blue;
     size: 600;
+}
 
+main p {
+    color: black
 }
-p {
-    color: rgba(249, 107, 31, 1)
-}
+
 #nav1 {
     float: left;
     padding-left: 30px;
@@ -56,3 +56,20 @@ p {
     padding-left: 30px;
     margin-right: 20px;
     block-size: 200px;
+}
+
+main img {
+    float: right;
+}
+#scripphoto {
+    display: flow-root;
+}
+
+#scriptphoto img {
+    width: 40px;
+    display: inline-block;
+}
+
+#toobad {
+    font-size: 20px;
+}
